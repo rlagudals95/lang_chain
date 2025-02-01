@@ -1,7 +1,8 @@
 # langchain
 
 ## **Architecture**
-![image.png](attachment:9f6e79de-c0db-4871-979e-3ba7a36f1b8b:image.png)  
+![image](https://github.com/user-attachments/assets/f0acb5ec-1619-4bf8-9abd-91683c39b571)
+
 
 - **LangChain**:
     - **LangChain**은 여러 개의 **LLM (Large Language Model)**을 연결하여 복잡한 작업을 처리하는 **워크플로우**를 만드는 라이브러리입니다. 여러 LLM을 **순차적 또는 병렬**로 호출하여 하나의 작업을 수행할 수 있습니다.
