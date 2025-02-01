@@ -20,7 +20,8 @@
 
 
 ## **Agent**  
-<img width="1054" alt="image" src="https://github.com/user-attachments/assets/8d95baea-ff74-4359-b0bd-d1442a919b81" />
+![image](https://github.com/user-attachments/assets/25fe53a3-33de-4ffa-b438-7a64b6d14601)
+
 
 
 LangChain의 **"Agent"**(에이전트)는 주어진 목표를 달성하기 위해 도구(예: 검색, 계산, API 호출 등)를 활용하여 동적으로 의사결정을 내리는 시스템입니다.
